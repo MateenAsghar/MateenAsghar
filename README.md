@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Mateen Asghar
-- 👀 I’m interested in Data Analytic Research
+- 👋 Hi, I'm Mateen Asghar
+- 👀 I’m interested in Power Bi
 - 🌱 I’m currently learning Power Platform
-- 💞️ I’m looking to collaborate on Power Platform
+- 💞️ I’m looking to collaborate on Power Bi
 - 📫 How to reach me mateenm025@gmail.com
 - 😄 Pronouns: He.... Him
 
